@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="https://seb-44-mainproject-006.s3.ap-northeast-2.amazonaws.com/logo.png">
+  <img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/741122b1-df4d-4b08-a3be-fa28d74fe435">
   <br>
 <p align='center'><strong>하루메이트는 당일 일정을 만들고 친구에게 손쉽게 공유할 수 있는 서비스입니다.</strong></p>
 </p>
@@ -32,12 +32,18 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://lh6.googleusercontent.com/5E2trbEO3ic8SQPg9MOiY8obWc_GZ4WcDxalJDFf43ndHOURrKvXejzEA5484YeW7iz5iKIpaXT33-OndYJZZAVV5jKBfUUFKS6t_rb_FobjHlui6c9poxPGr4XpTil8DhL-aFHIAVh6mv2YYMMav4eJVw=s2048" width="150" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://i.imgur.com/1S0lVCr.png" width="150" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://lh6.googleusercontent.com/elu9B9mPvaQIXq76r8bfhxLJERmDGlILLo68GApdVaqHnbTNREO0ksrxmDkZNlTKeokxSXQIUtmRjrjAO25Y1cekmr9p0jUExzimH6oEzygeYX0NahZnM2Zq8tyZGcga4vFTuR37S62zhj-2ucbB5Rj9kg=s2048" width="150" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://i.imgur.com/FBqnngs.png" width="150" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://lh3.googleusercontent.com/uWr1_eeporDE-dutZYxQPzZfjLpwMzbF9oQtL8tz214Iq8iKD4I8Zwe2WCj3VtrP9C2t07RbhC1bl8c3oXDUGTkhhhW8kPJGvHgynu-LH-cVAG-bQOJv0PYRd2vbBNiBoRc1yVPHHwuRweXM1CqxK-hH1A=s2048" width="150" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://lh5.googleusercontent.com/HgjW3hPuQE2my3z8zVuOOPM48Tsv9KS7cuKqR4Fh4a6BVYwQSGlHhDGIqRVtlyAA0vJI5lhbWha9PONrxQyNuNfGlSLt07TPS6KttrvlBbWBbEwj590l0Ez5rnQFJjt_uUsmU94wY5-qm-hLWn_s0dyObw=s2048" width="150" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/85fae278-e320-42f6-98b3-b1b98735a941"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/85fae278-e320-42f6-98b3-b1b98735a941" width="150" style="max-width: 100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/083ef8e2-632e-4578-9af4-777d2dfcc4b2"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/b440da19-acae-4d68-b2d2-fa848e4443d6" width="150" style="max-width: 100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/991886ba-e271-424e-b405-03b8ff4c1bfa"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/991886ba-e271-424e-b405-03b8ff4c1bfa" width="150" style="max-width: 100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/fe0a4e1f-29be-41f5-a474-057cc86e7b54"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/fe0a4e1f-29be-41f5-a474-057cc86e7b54" width="150" style="max-width: 100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/5588adcc-912c-4662-ac8e-51490306a951"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/5588adcc-912c-4662-ac8e-51490306a951" width="150" style="max-width: 100%;"></a></td>
+
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/codestates-seb/seb44_main_006/assets/76707524/a70af897-3ab1-478a-a9e8-3089567e430b"><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/a70af897-3ab1-478a-a9e8-3089567e430b" width="150" style="max-width: 100%;"></a></td>
+
 </tr>
 <tr>
 <td>
@@ -62,13 +68,16 @@
 </tbody>
 </table>
 
+<h3>
+<a href="https://boiled-november-915.notion.site/a9e75793246d4ce09cdbef5088add1a9?pvs=4">담당 파트</a>
+</h3>
 <br>
 
 ## 기술 스택
-<img src="https://seb-44-mainproject-006.s3.ap-northeast-2.amazonaws.com/stack.png">
+<img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/f754e0e8-dd0f-4065-86b1-7ff2fe60d08c">
 
 <br>
-
+<br>
 
 ## 페이지
 |메인페이지|일정등록페이지|
@@ -80,42 +89,45 @@
 |![image](https://github.com/codestates-seb/seb44_main_006/assets/77836614/a97df5fd-ebe5-4ab1-b93a-93d655772683)|![image](https://github.com/codestates-seb/seb44_main_006/assets/77836614/f757bcdb-6a4a-4594-ad92-f6a87ef8d6e3)|
 
 <br>
-<br>
+
 
 ## 기능 시연 영상
 
-<br>
-
 ### 일정 등록 페이지
-https://github.com/codestates-seb/seb44_main_006/assets/109754988/2efba3b2-c28d-4ac2-8eee-c699b0adbf9b
 
-https://github.com/codestates-seb/seb44_main_006/assets/109754988/30abfac0-c2bb-4484-8e4f-5625fd188982
+https://github.com/codestates-seb/seb44_main_006/assets/79021544/32381f09-75fa-4fef-8c53-0ae595e3a524
+
+https://github.com/codestates-seb/seb44_main_006/assets/79021544/2c2afdce-1e5a-4d81-b601-96f2e0b5be10
 
 <br>
 
 ### 마이 페이지
-https://github.com/codestates-seb/seb44_main_006/assets/109754988/8ada7dca-dce2-42ec-93d5-8e73f6d47656
+
+https://github.com/codestates-seb/seb44_main_006/assets/79021544/1c1288d2-800e-438a-b90c-5960976fe56f
 
 <br>
 
 ### 커뮤니티 페이지
-https://github.com/codestates-seb/seb44_main_006/assets/109754988/9606c5bd-e69b-421f-b8c8-b9901993bb3e
 
+https://github.com/codestates-seb/seb44_main_006/assets/79021544/941b6bec-71e6-4748-9598-79de45440f87
 
 <br>
+
 
 <h2>ERD</h2>
 <details>
 <summary>ERD</summary>
 <div dir="auto">
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://seb-44-mainproject-006.s3.ap-northeast-2.amazonaws.com/ERD.png" alt="erdImg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/codestates-seb/seb44_main_006/assets/76707524/64812558-f699-460e-abb3-45bc101f58f5" alt="erdImg" style="max-width: 100%;"></a>
 </div>
 </details>
+
 <br>
-<h2><a href="https://drive.google.com/file/d/1WNAoJJcP-ybHIrENq2jlUSc6YNvmOVwA/view?usp=sharing" rel="nofollow">테이블 명세서</a></h2>
+
+<h2><a href="https://github.com/codestates-seb/seb44_main_006/files/12142253/%2BERD.pdf" rel="nofollow">테이블 명세서</a></h2>
 <br>
-<h2><a href="https://drive.google.com/file/d/1d7T4WHeAefmc8mddL1bgDd5UFcl4-3qv/view?usp=sharing" rel="nofollow">API 명세서</a></h2>
+<h2><a href="https://github.com/codestates-seb/seb44_main_006/files/12142250/API.pdf" rel="nofollow">API 명세서</a></h2>
 <br>
-<h2><a href="https://drive.google.com/file/d/17z87WpmeDfhc7oW_8RaaGTl38b67IWVI/view?usp=sharing" rel="nofollow">화면 정의서</a></h2>
+<h2><a href="https://github.com/codestates-seb/seb44_main_006/files/12142259/_compressed.pdf" rel="nofollow">화면 정의서</a></h2>
 <br>
-<h2><a href="https://drive.google.com/file/d/1oy-Lqj1MduojdJ-z_tv1_DDqphxrjnJE/view?usp=sharing" rel="nofollow">서비스 메뉴얼</a></h2>
+<h2><a href="https://github.com/codestates-seb/seb44_main_006/files/12142255/default.pdf" rel="nofollow">서비스 메뉴얼</a></h2>
